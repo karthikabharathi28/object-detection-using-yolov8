@@ -1,0 +1,10 @@
+eye
+hand
+idcard
+mouth
+nose
+sastra
+tag
+
+
+

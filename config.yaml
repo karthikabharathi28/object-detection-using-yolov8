@@ -1,0 +1,13 @@
+path: /content/drive/MyDrive/traindata
+train: /content/drive/MyDrive/traindata/train/images
+val: /content/drive/MyDrive/traindata/valid/images
+test: /content/drive/MyDrive/traindata/test/images
+
+names: 
+  0: eye
+  1: hand
+  2: idcard
+  3: mouth
+  4: nose
+  5: sastra
+  6: tag
